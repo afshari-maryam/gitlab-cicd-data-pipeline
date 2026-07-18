@@ -14,7 +14,7 @@ automated linting, testing, and build steps triggered on every commit.
 - pytest, flake8
 
 ## Status
-🚧 In progress
+✅ Complete
 
 ## Structure (planned)
 - `.gitlab-ci.yml` — pipeline definition (lint → test → build)
